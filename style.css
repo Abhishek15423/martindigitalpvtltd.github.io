@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.nav-link{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.myNav{
+    background-color: #6faceb;
+}
+
+.nav-item>a{
+    color: white;
+}
+.logo{
+    height: 50.2px;
+    width: 14.9rem;
+}
